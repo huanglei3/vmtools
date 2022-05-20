@@ -4,3 +4,4 @@ You can see from the above picture
 If it keeps popping up, it will affect something
 我在不同的虚拟机 20.04 21.04... 会报这样的错误
 2.png,3.png,4.png
+Since it will be executed to bin/vmware-config-tools.pl, you can also execute vmware-config-tools.pl again after installation, and an error will be reported directly, as shown in Figure 3.png
