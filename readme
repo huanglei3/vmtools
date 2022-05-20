@@ -2,3 +2,4 @@ When installing vmtools, when installing multiple times, segment Fault will also
 sudo ./vmware-install.pl --d 
 You can see from the above picture
 If it keeps popping up, it will affect something
+And I'm in different virtual machines 20.04 21.04... will report errors like this
