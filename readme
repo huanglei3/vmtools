@@ -1,2 +1,4 @@
 When installing vmtools, when installing multiple times, segment Fault will also appear when using the default options
 sudo ./vmware-install.pl --d 
+You can see from the above picture
+If it keeps popping up, it will affect something
