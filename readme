@@ -2,4 +2,5 @@ When installing vmtools, when installing multiple times, segment Fault will also
 sudo ./vmware-install.pl --d 
 You can see from the above picture
 If it keeps popping up, it will affect something
-And I'm in different virtual machines 20.04 21.04... will report errors like this
+我在不同的虚拟机 20.04 21.04... 会报这样的错误
+2.png,3.png,4.png
